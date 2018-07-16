@@ -1,1 +1,61 @@
-t
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(109, 103, 103, 0.596);
+}
+.onlines{
+    color:rgb(6, 250, 18);
+    font:bold;
+}
+.offlines{
+    color:rgb(104, 107, 241);
+    font:bold;
+}
+.separator{
+    width: 402px;
+    height: 5px;
+    background-color: rgba(8, 8, 8, 0.609);
+    margin-left: 15px;
+}
+.container-main{
+    width: 450px;
+    background-color: rgba(122, 32, 32, 0.609);
+    min-height: 400px;
+    margin-left: 35%;
+    margin-top: 5%;
+font-size:20px;
+}
+.container{
+    width: 402px;
+    height: 50px;
+    background-color: rgba(49, 48, 48, 0.609);
+font-size:20px;
+}
+p{
+    text-align: right;
+}
+.parent {
+    padding: 1rem;
+}
+.child {
+    margin-top: 10px;
+    padding: 15px;
+}
+.info{
+    width: 402px;
+    height: 90px;
+   background:  rgba(122, 32, 32, 0.609);
+   margin-left: 15px;
+   padding-top: 5px;
+   color: white;
+   font-size: 15px;
+
+}
+.float-left-child {
+    float: left;
+    }
+    .float-right-child {
+    float: right ;
+    }
+    .btns{
+        width: 134px;
+    }   
